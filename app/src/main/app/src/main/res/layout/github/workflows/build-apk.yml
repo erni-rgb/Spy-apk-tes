@@ -1,6 +1,7 @@
 name: Build APK
 
 on:
+workflow_dispach:
   push:
     branches:
       - main  # atau nama branch utama kamu
